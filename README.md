@@ -1,6 +1,8 @@
 # Data Analyst
 
 ### Education
+Vishwakarma Institue of Technology, Pune
+- Industrial Engineer 8.57 CGPA.
 
 ### Work Experience 
 Data Analyst at Holistic Consulting 
@@ -8,5 +10,11 @@ Data Analyst at Holistic Consulting
 - PNG
 - Jupiter Clamps
 - Hitachi Astemo
+
+Inudstrial Engineering Intern @ Schindler India PVT LTD
+- Maynard Operation Times Study on Traction Assy. Line
+- MES Delmia Apriso implementation on 17 Assy. lines
+- Work Instruction preparation and feeding into Application
+- Projects routing in SAP
 
 ### Projects 
