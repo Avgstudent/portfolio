@@ -18,3 +18,15 @@ Inudstrial Engineering Intern @ Schindler India PVT LTD
 - Projects routing in SAP
 
 ### Projects 
+Overall Equipment Efficiency - Machining Process 
+
+Process FMEA for Valve Guide Machining
+
+Assy. Line Balancing and Material Handling Optimization 
+
+### Skills and Interests 
+
+### Activities and Leadership 
+
+
+
